@@ -6,3 +6,4 @@
 - editor environment
 - introductions for instructors longer than students
 - students - Name, job, geeky fact
+
