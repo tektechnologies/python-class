@@ -31,3 +31,4 @@ First, make it work, then make it right, then make it fast.
 - add white board diagram for what file accessing we are going to do.
 - visual before reading writing or appending using while loops. graphic should explain why we would do this as well.
 - list out comments as steps to what and why we are creating the next concept ~ modules
+- in the refactor comment the order of operations before you refactor then seeing the place of the comments reflected in the refactor of our main functions to our modules.
