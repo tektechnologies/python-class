@@ -9,6 +9,7 @@
 - demo practice 15 - 20 after lunch
 - when is lunch hour
 - how to search for answers at W3c schools and how to apply examples
+- are we in there slack channel or what does the company use to communicate, "teams"?
 
 ## day two
 
@@ -24,3 +25,6 @@ First, make it work, then make it right, then make it fast.
 
 
 https://www.youtube.com/watch?v=Ct-lOOUqmyY
+
+
+- review over
