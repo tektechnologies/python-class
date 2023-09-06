@@ -41,3 +41,4 @@ First, make it work, then make it right, then make it fast.
 - classes are easy to code but hard to understand - build up their confidence.. Now that we have dumped() on them
 - virtual env install is heavy, make sure TA knows how to do this, I was not helpful in any way 🫢
 - ask before we start what type of IT background do the students have? OPS or Software or general tech skills.
+- ending the demos on the SWAPI api was fun for most everyone... good demo and great practical practice.
