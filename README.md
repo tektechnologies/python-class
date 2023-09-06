@@ -23,8 +23,10 @@ Writing a script - Humans can easily accomplish complex goals and tasks without 
 
 First, make it work, then make it right, then make it fast.
 
-
-https://www.youtube.com/watch?v=Ct-lOOUqmyY
-
+```js
+ https://www.youtube.com/watch?v=Ct-lOOUqmyY
+```
 
 - review over
+- add white board diagram for what file accessing we are going to do.
+- visual before reading writing or appending using while loops. graphic should explain why we would do this as well.
