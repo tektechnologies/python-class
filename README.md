@@ -30,3 +30,4 @@ First, make it work, then make it right, then make it fast.
 - review over
 - add white board diagram for what file accessing we are going to do.
 - visual before reading writing or appending using while loops. graphic should explain why we would do this as well.
+- list out comments as steps to what and why we are creating the next concept ~ modules
