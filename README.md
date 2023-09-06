@@ -32,3 +32,8 @@ First, make it work, then make it right, then make it fast.
 - visual before reading writing or appending using while loops. graphic should explain why we would do this as well.
 - list out comments as steps to what and why we are creating the next concept ~ modules
 - in the refactor comment the order of operations before you refactor then seeing the place of the comments reflected in the refactor of our main functions to our modules.
+
+### After lunch
+
+- Maybe code along for the afternoon.. giving everyone the curage to try to code and see it work.
+- classes are easy to code but hard to understand - build up their confidence.. Now that we have dumped() on them
