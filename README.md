@@ -39,6 +39,6 @@ First, make it work, then make it right, then make it fast.
 
 - Maybe code along for the afternoon.. giving everyone the curage to try to code and see it work.
 - classes are easy to code but hard to understand - build up their confidence.. Now that we have dumped() on them
-- virtual env install is heavy, make sure TA knows how to do this, I was not helpful in any way 🫢
+- virtual env install is multi-faceted if your instructing on linux and can use terminal commands like ls, pwd and students are using power shell or command prompt various commands will be in play, it can get confusing for the students a possible white board slide of the file scaffolding and where everything lives could be helpful. slacking out the command list could also be good. make sure TA has installed the env prior.
 - ask before we start what type of IT background do the students have? OPS or Software or general tech skills.
 - ending the demos on the SWAPI api was fun for most everyone... good demo and great practical practice.
